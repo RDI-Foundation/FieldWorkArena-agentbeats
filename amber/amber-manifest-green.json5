@@ -42,7 +42,7 @@
     a2a: "a2a",
   },
   metadata: {
-    assessment_config: { "target": "custom" },
+    assessment_config: { "target": "all" },
     participant_roles: ["agent"]
   }
 }
